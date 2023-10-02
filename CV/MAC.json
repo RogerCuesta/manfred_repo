@@ -1,0 +1,277 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Roger",
+      "surnames": "Cuesta Vailles",
+      "title": "Software Engineer en Minsait España. Flutter. Web3. Blockchain.",
+      "description": "Actualmente creando aplicaciones móviles Android/iOS para empresas en todo el mundo utilizando Flutter.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/02/394440cb-54bb-485e-b223-ad77549578a0_pefil.jpeg",
+        "alt": "pefil.jpeg"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJ5TCOcRaYpBIRCmZHTz37sEQ)",
+        "country": "España",
+        "region": "Cataluña",
+        "municipality": "Barcelona"
+      }
+    }
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Minsait"
+        },
+        "roles": [
+          {
+            "name": "Flutter Developer",
+            "startDate": "2023-05-01",
+            "challenges": [
+              {
+                "description": "Lidere el proyecto durante un tiempo por mi cuenta incluyendo trato con el cliente. Al tiempo se me asignó a mi proyecto un par de personas y se me dio el rol de liderazgo del proyecto ya que vieron que me desarrollaba bien con el cliente y gestionando al equipo nuevo."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Accenture"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2021-07-01",
+            "finishDate": "2023-05-31",
+            "challenges": [
+              {
+                "description": "Actualmente trabajando en un proyecto con un equipo internacional. Uso de BloC para el manejo de estados. Integración de Unit, Widget, Integration y GraphQL EndPoints Testing."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Dribba"
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2019-07-01",
+            "finishDate": "2021-07-31",
+            "challenges": [
+              {
+                "description": "Dribba is a mobile-tech company based in Zürich and Barcelona. We build mobile solutions for well-known companies and local startups around the world. We are a young and innovative group of engineers focused on delivering the best product for all of our clients. Visit us and we will show you how to succeed with your mobile project. Working on mobile development in Flutter."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "MF WINFOR, S.L.U."
+        },
+        "roles": [
+          {
+            "name": "Programador Junior",
+            "startDate": "2018-07-01",
+            "finishDate": "2019-07-31",
+            "challenges": [
+              {
+                "description": "Desarrollo de aplicaciones multiplataforma (Flutter) y de Software de gestión de empresas . "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Pukkas Webs Design, SL"
+        },
+        "roles": [
+          {
+            "name": "Programador",
+            "startDate": "2018-04-01",
+            "finishDate": "2018-07-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Pukkas Webs Design, SL"
+        },
+        "roles": [
+          {
+            "name": "Becario",
+            "startDate": "2017-10-01",
+            "finishDate": "2018-03-31"
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Integrar Web3 en Flutter ",
+          "description": "Un pequeño proyecto con la intención de probar librerías de Web3 como ETHJS en Flutter para montar una pequeña Wallet y interactuar con algunos contratos ",
+          "URL": "https://github.com/RogerCuesta/flutter_web3/tree/develop"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-06-01",
+            "competences": [
+              {
+                "name": "Ethereum",
+                "type": "technology"
+              },
+              {
+                "name": "Flutter",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "CA",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "EN",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "JP",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Flutter",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Firebase",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kotlin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLite",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Swift",
+          "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Gestión de equipo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/roger-cuesta-vailles/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/RogerCuesta",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "rogercuesta@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "722381040",
+          "countryCode": "+34"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Flutter",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "React Native",
+          "type": "technology"
+        },
+        {
+          "name": "Xamarin",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Mobile Developer"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Flutter",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Valoro mucho trabajar en un equipo de desarrollo pequeño o mediano donde haya pasión por hacer buen software, aprendizaje continuo e interés por probar nuevas herramientas y compartir el conocimiento obtenido. No me gustaría tener un horario rígido o un lugar fijo de trabajo. Además, valoraría participar activamente en las fases del ciclo de vida del desarrollo. También considero importante alinearse con los valores del desarrollo ágil y compromiso con el producto a medio y largo plazo.\n\n\n\n",
+    "projects": [
+      {
+        "name": "Integrar Web3 en Flutter "
+      }
+    ]
+  }
+}
