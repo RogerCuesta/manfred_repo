@@ -71,9 +71,16 @@
           {
             "name": "Flutter Developer",
             "startDate": "2023-05-01",
+            "finishDate": "2024-10-01",
             "challenges": [
               {
                 "description": "Lidere el proyecto durante un tiempo por mi cuenta incluyendo trato con el cliente. Al tiempo se me asignó a mi proyecto un par de personas y se me dio el rol de liderazgo del proyecto ya que vieron que me desarrollaba bien con el cliente y gestionando al equipo nuevo."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Flutter",
+                "type": "technology"
               }
             ]
           }
