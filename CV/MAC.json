@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -20,7 +20,17 @@
         "region": "Cataluña",
         "municipality": "Barcelona"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/roger-cuesta-vailles/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/RogerCuesta"
+      }
+    ]
   },
   "experience": {
     "jobs": [
@@ -147,18 +157,22 @@
     "languages": [
       {
         "name": "CA",
+        "fullName": "Catalán / Valenciano",
         "level": "Native or bilingual proficiency"
       },
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Professional working proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       },
       {
         "name": "JP",
+        "fullName": "Japonés",
         "level": "Limited working proficiency"
       }
     ],
@@ -225,15 +239,6 @@
         {
           "URL": "https://github.com/RogerCuesta",
           "type": "github"
-        }
-      ],
-      "contactMails": [
-        "rogercuesta@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "722381040",
-          "countryCode": "+34"
         }
       ]
     },
