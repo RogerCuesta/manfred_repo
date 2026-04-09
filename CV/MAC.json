@@ -36,6 +36,35 @@
     "jobs": [
       {
         "organization": {
+          "name": "Celering"
+        },
+        "roles": [
+          {
+            "name": "Flutter Developer",
+            "startDate": "2024-10-01",
+            "competences": [
+              {
+                "name": "Dart",
+                "type": "technology"
+              },
+              {
+                "name": "Flutter",
+                "type": "technology"
+              },
+              {
+                "name": "Google Firebase",
+                "type": "technology"
+              },
+              {
+                "name": "Hive",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Minsait"
         },
         "roles": [
